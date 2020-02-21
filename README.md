@@ -1,2 +1,2 @@
 # GO-tutorial-links
-This golang contains links to article about how to use golang tools.
+This golang contains links of articles about golang and how to use golang tools.
